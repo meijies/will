@@ -1,2 +1,0 @@
-** todo items
- + 状态切换 C-c, C-t

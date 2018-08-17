@@ -1,11 +1,23 @@
 * will
-人生苦短,plan before do
-** 基本
-+ 在Github上创建一个项目
-+ 将自己的反思记录下来
-+ 根据反思制定可行的计划
-+ 记录跟踪自己的学习过程。
-** 自我分析
-[[main.org]]
-** 每天routine
-[[agenda]]
+人生苦短,计划现行
+** 编程资源
+*** 系统设计
+**** 理论
+     + [[https://mp.weixin.qq.com/s/gV7DqSgSkz_X56p2X_x_cQ][CAP理论和分布式设计]]
+     + [[http://www.infoq.com/cn/articles/cap-twelve-years-later-how-the-rules-have-changed][CAP理十二年:"规则"变了]]
+     + [[https://github.com/dbartolini/data-oriented-design][面向对象设计资源列表]]
+**** 综合
+     + [[https://github.com/donnemartin/system-design-primer][学习如何设计大型系统]]
+     + [[https://github.com/oldratlee/translations][经典计算机文章翻译列表，包括系统设计]]
+     + [[https://github.com/binhnguyennus/awesome-scalability][高可用性，高可扩展性，高并发设计模式]]]
+**** 案例
+     + [[https://github.com/davideuler/architecture.of.internet-product][互联网公司技术架构]]
+
+*** 人工智能
+**** 综合
+     + [[https://github.com/xitu/gold-miner/blob/master/AI.md][掘金AI翻译]]
+     + [[https://github.com/apachecn/AiLearning][机器学习]]
+
+** [TODO] 我star的项目分类
+** 其他
+   [[main.org][+ 自我分析]]
