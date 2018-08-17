@@ -1,5 +1,6 @@
-<div align="center"><h1> WILL 人生苦短,计划现行</h1></div>
-
+<div align="center"><h1> WILL 人生苦短,计划先行</h1></div>
+<br/>
+<br/>
 
 ## :books: 编程资源
 > ### 系统设计
@@ -24,7 +25,8 @@
 
 ## :calendar: 学习日程
 - [ ] 分类我star的项目 
-
+- [ ] 阅读[日志：每个软件工程师都应该知道的有关实时数据的统一抽象](https://github.com/oldratlee/translations/blob/master/log-what-every-software-engineer-should-know-about-real-time-datas-unifying/README.md)
+- [ ] 阅读[CAP理论和分布式设计](https://mp.weixin.qq.com/s/gV7DqSgSkz_X56p2X_x_cQ)
 
 ## 其他
 - [markdown 图标](https://gist.github.com/rxaviers/7360908)
