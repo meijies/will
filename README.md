@@ -10,7 +10,7 @@
 > - [面向对象设计资源列表](https://github.com/dbartolini/data-oriented-design)
 >
 > 系统设计综合知识
-> - [学习如何设计大型系统](https://github.com/donnemartin/system-design-prime)
+> - [学习如何设计大型系统](https://github.com/donnemartin/system-design-primer)
 > - [经典计算机文章翻译列表，包括系统设计](https://github.com/oldratlee/translations)
 > - [高可用性,高可扩展性,高并发设计模式](https://github.com/binhnguyennus/awesome-scalability)
 >
