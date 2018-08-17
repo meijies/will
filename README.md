@@ -1,5 +1,5 @@
 <div align="center">
- will 人生苦短,计划现行
+<head> will 人生苦短,计划现行</head>
 </div><br/>
 
 ### 编程资源
@@ -20,9 +20,7 @@
 - [掘金AI翻译](https://github.com/xitu/gold-miner/blob/master/AI.md)
 - [机器学习](https://github.com/apachecn/AiLearning)
 
-### [TODO] 我star的项目分类
-
-### 其他
-   [[main.org][+ 自我分析]]
-   
+### [ ]我star的项目分类
 ### :calendar: 学习日程  
+### 其他
+- [自我认知](main.org)
