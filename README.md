@@ -17,6 +17,9 @@
 > 系统设计案例
 > - [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
 >
+> 系统设计书籍
+> - 分布式系统概念与设计
+>
 > ### 人工智能
 > 系统设计综合知识
 > - [掘金AI翻译](https://github.com/xitu/gold-miner/blob/master/AI.md)
@@ -31,4 +34,3 @@
 ## 其他
 - [markdown 图标](https://gist.github.com/rxaviers/7360908)
 - [自我认知](main.org)
-
