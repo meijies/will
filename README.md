@@ -17,6 +17,9 @@
 > 系统设计案例
 > - [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
 >
+> 分布式应用设计
+> - [SAMZA(分布式流处理框架)设计文档](https://issues.apache.org/jira/browse/SAMZA-865?jql=project%20%3D%20SAMZA%20AND%20labels%20%3D%20design)
+>
 > 系统设计书籍
 > - 分布式系统概念与设计
 >
@@ -28,7 +31,7 @@
 
 ## :calendar: 学习日程
 - [ ] 分类我star的项目 
-- [ ] 阅读[日志：每个软件工程师都应该知道的有关实时数据的统一抽象](https://github.com/oldratlee/translations/blob/master/log-what-every-software-engineer-should-know-about-real-time-datas-unifying/README.md)
+- [x] 阅读[日志：每个软件工程师都应该知道的有关实时数据的统一抽象](https://github.com/oldratlee/translations/blob/master/log-what-every-software-engineer-should-know-about-real-time-datas-unifying/README.md)
 - [ ] 阅读[CAP理论和分布式设计](https://mp.weixin.qq.com/s/gV7DqSgSkz_X56p2X_x_cQ)
 
 ## 其他
