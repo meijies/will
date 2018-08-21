@@ -9,6 +9,7 @@
 > - [CAP理论十二年回顾："规则"变了](http://www.infoq.com/cn/articles/cap-twelve-years-later-how-the-rules-have-changed)
 > - [面向对象设计资源列表](https://github.com/dbartolini/data-oriented-design)
 > - [RAFT论文中文翻译](http://www.infoq.com/cn/articles/raft-paper)
+
 > 系统设计综合知识
 > - [学习如何设计大型系统](https://github.com/donnemartin/system-design-primer)
 > - [经典计算机文章翻译列表，包括系统设计](https://github.com/oldratlee/translations)
