@@ -9,7 +9,7 @@
 > - [CAP理论十二年回顾："规则"变了](http://www.infoq.com/cn/articles/cap-twelve-years-later-how-the-rules-have-changed)
 > - [面向对象设计资源列表](https://github.com/dbartolini/data-oriented-design)
 > - [RAFT论文中文翻译](http://www.infoq.com/cn/articles/raft-paper)
-
+>
 > 系统设计综合知识
 > - [学习如何设计大型系统](https://github.com/donnemartin/system-design-primer)
 > - [经典计算机文章翻译列表，包括系统设计](https://github.com/oldratlee/translations)
@@ -22,7 +22,7 @@
 > - [SAMZA(分布式流处理框架)设计文档](https://issues.apache.org/jira/browse/SAMZA-865?jql=project%20%3D%20SAMZA%20AND%20labels%20%3D%20design)
 >
 > 系统设计书籍
-> - 分布式系统概念与设计
+> - [分布式系统概念与设计](https://github.com/wornxiao/IT_tech_Book/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E6%A6%82%E5%BF%B5%E4%B8%8E%E8%AE%BE%E8%AE%A1%20%E5%8E%9F%E4%B9%A6%E7%AC%AC5%E7%89%88.pdf)
 >
 > ### 人工智能
 > 系统设计综合知识
