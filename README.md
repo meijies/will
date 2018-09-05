@@ -23,6 +23,7 @@
 >
 > 系统设计书籍
 > - [分布式系统概念与设计](https://github.com/wornxiao/IT_tech_Book/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E6%A6%82%E5%BF%B5%E4%B8%8E%E8%AE%BE%E8%AE%A1%20%E5%8E%9F%E4%B9%A6%E7%AC%AC5%E7%89%88.pdf)
+> - [设计数据密集型应用](https://vonng.gitbooks.io/ddia-cn/content/)
 >
 > ### 人工智能
 > 系统设计综合知识
