@@ -3,6 +3,9 @@
 <br/>
 
 ## :books: 编程资源
+> ### 基础
+> - [jvm读物](https://github.com/rxin/jvm-readings)
+>
 > ### 系统设计
 > 系统设计某一方面理论知识
 > - [CAP理论和分布式设计](https://mp.weixin.qq.com/s/gV7DqSgSkz_X56p2X_x_cQ)
