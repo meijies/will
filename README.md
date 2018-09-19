@@ -17,6 +17,7 @@
 > - [学习如何设计大型系统](https://github.com/donnemartin/system-design-primer)
 > - [经典计算机文章翻译列表，包括系统设计](https://github.com/oldratlee/translations)
 > - [高可用性,高可扩展性,高并发设计模式](https://github.com/binhnguyennus/awesome-scalability)
+> - [infoq 系统架构](http://www.infoq.com/cn/architecture-design/)
 >
 > 系统设计案例
 > - [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
@@ -24,9 +25,10 @@
 > 分布式应用设计
 > - [SAMZA(分布式流处理框架)设计文档](https://issues.apache.org/jira/browse/SAMZA-865?jql=project%20%3D%20SAMZA%20AND%20labels%20%3D%20design)
 >
-> 系统设计书籍
+> 系统设计书籍和博客
 > - [分布式系统概念与设计](https://github.com/wornxiao/IT_tech_Book/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E6%A6%82%E5%BF%B5%E4%B8%8E%E8%AE%BE%E8%AE%A1%20%E5%8E%9F%E4%B9%A6%E7%AC%AC5%E7%89%88.pdf)
 > - [设计数据密集型应用](https://vonng.gitbooks.io/ddia-cn/content/)
+> - [Flink 资源合集](https://yq.aliyun.com/articles/81743?utm_campaign=wenzhang&utm_medium=article&utm_source=QQ-qun&2017516&utm_content=m_20992)
 >
 > ### 人工智能
 > 系统设计综合知识
