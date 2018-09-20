@@ -18,6 +18,7 @@
 > - [经典计算机文章翻译列表，包括系统设计](https://github.com/oldratlee/translations)
 > - [高可用性,高可扩展性,高并发设计模式](https://github.com/binhnguyennus/awesome-scalability)
 > - [infoq 系统架构](http://www.infoq.com/cn/architecture-design/)
+> - [OREILLY 数据主题](https://www.oreilly.com/topics/data)
 >
 > 系统设计案例
 > - [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
