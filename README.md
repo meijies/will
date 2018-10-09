@@ -19,6 +19,7 @@
 > - [高可用性,高可扩展性,高并发设计模式](https://github.com/binhnguyennus/awesome-scalability)
 > - [infoq 系统架构](http://www.infoq.com/cn/architecture-design/)
 > - [OREILLY 数据主题](https://www.oreilly.com/topics/data)
+> - [美团技术文章](https://tech.meituan.com/)
 >
 > 系统设计案例
 > - [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
