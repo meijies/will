@@ -4,7 +4,8 @@
 
 ## :books: 编程资源
 > ### 基础
-> - [jvm读物](https://github.com/rxin/jvm-readings)
+> - [JVM读物](https://github.com/rxin/jvm-readings)
+> - [JVM性能优化](http://java-performance.info/)
 >
 > ### 系统设计
 > 系统设计某一方面理论知识
@@ -31,6 +32,10 @@
 > - [分布式系统概念与设计](https://github.com/wornxiao/IT_tech_Book/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E6%A6%82%E5%BF%B5%E4%B8%8E%E8%AE%BE%E8%AE%A1%20%E5%8E%9F%E4%B9%A6%E7%AC%AC5%E7%89%88.pdf)
 > - [设计数据密集型应用](https://vonng.gitbooks.io/ddia-cn/content/)
 > - [Flink 资源合集](https://yq.aliyun.com/articles/81743?utm_campaign=wenzhang&utm_medium=article&utm_source=QQ-qun&2017516&utm_content=m_20992)
+>
+> 高质量博客
+> - [Bob大叔](http://blog.cleancoder.com/)
+> - [Andrew Brampton](https://blog.bramp.net/)
 >
 > ### 人工智能
 > 系统设计综合知识
