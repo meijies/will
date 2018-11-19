@@ -16,7 +16,7 @@
 > - [RAFT论文中文翻译](http://www.infoq.com/cn/articles/raft-paper)
 >
 > 系统设计综合知识
-> - [技术心得]
+> - [技术心得](https://github.com/aalansehaiyang/technology-talk)
 > - [学习如何设计大型系统](https://github.com/donnemartin/system-design-primer)
 > - [经典计算机文章翻译列表，包括系统设计](https://github.com/oldratlee/translations)
 > - [高可用性,高可扩展性,高并发设计模式](https://github.com/binhnguyennus/awesome-scalability)
