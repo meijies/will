@@ -15,12 +15,14 @@
 > - [RAFT论文中文翻译](http://www.infoq.com/cn/articles/raft-paper)
 >
 > 系统设计综合知识
+> - [技术心得]
 > - [学习如何设计大型系统](https://github.com/donnemartin/system-design-primer)
 > - [经典计算机文章翻译列表，包括系统设计](https://github.com/oldratlee/translations)
 > - [高可用性,高可扩展性,高并发设计模式](https://github.com/binhnguyennus/awesome-scalability)
 > - [infoq 系统架构](http://www.infoq.com/cn/architecture-design/)
 > - [OREILLY 数据主题](https://www.oreilly.com/topics/data)
 > - [美团技术文章](https://tech.meituan.com/)
+> - [TALKS](https://github.com/JanVanRyswyck/awesome-talks)
 >
 > 系统设计案例
 > - [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
