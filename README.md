@@ -39,6 +39,7 @@
 > 高质量博客
 > - [Bob大叔](http://blog.cleancoder.com/)
 > - [Andrew Brampton](https://blog.bramp.net/)
+> - [Norman Maurer](http://normanmaurer.me/)
 >
 > ### 人工智能
 > 系统设计综合知识
