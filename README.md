@@ -7,6 +7,7 @@
 > - [JVM读物](https://github.com/rxin/jvm-readings)
 > - [JVM性能优化](http://java-performance.info/)
 > - [LINUX性能](http://www.brendangregg.com/linuxperf.html)
+> - [LINUX阅读](http://en.tldp.org/HOWTO/Reading-List-HOWTO/introduction.html)
 > 
 > ### 系统设计
 > 系统设计某一方面理论知识
