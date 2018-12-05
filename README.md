@@ -7,6 +7,7 @@
 > - [JVM读物](https://github.com/rxin/jvm-readings)
 > - [JVM性能优化](http://java-performance.info/)
 > - [LINUX性能](http://www.brendangregg.com/linuxperf.html)
+> - [LINUX阅读](http://en.tldp.org/HOWTO/Reading-List-HOWTO/introduction.html)
 > 
 > ### 系统设计
 > 系统设计某一方面理论知识
@@ -16,7 +17,7 @@
 > - [RAFT论文中文翻译](http://www.infoq.com/cn/articles/raft-paper)
 >
 > 系统设计综合知识
-> - [技术心得]
+> - [技术心得](https://github.com/aalansehaiyang/technology-talk)
 > - [学习如何设计大型系统](https://github.com/donnemartin/system-design-primer)
 > - [经典计算机文章翻译列表，包括系统设计](https://github.com/oldratlee/translations)
 > - [高可用性,高可扩展性,高并发设计模式](https://github.com/binhnguyennus/awesome-scalability)
@@ -39,6 +40,7 @@
 > 高质量博客
 > - [Bob大叔](http://blog.cleancoder.com/)
 > - [Andrew Brampton](https://blog.bramp.net/)
+> - [Norman Maurer](http://normanmaurer.me/)
 >
 > ### 人工智能
 > 系统设计综合知识
