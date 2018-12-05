@@ -36,3 +36,4 @@
 + [常见的软件隐喻](https://www.smwenku.com/a/5b891b952b71775d1cdff541/zh-cn/)
 + [如何成为一名黑客](https://translations.readthedocs.io/en/latest/hacker_howto.html)
 + [每个人需要注意的反模式](http://blog.jobbole.com/87413/)
++ [性能分析方法](http://www.brendangregg.com/methodology.html)
